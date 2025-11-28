@@ -42,19 +42,19 @@ Untuk menjalankan proyek ini di komputer Anda, ikuti langkah-langkah berikut:
     - Anda memerlukan akun Firebase untuk backend.
     - (opsional)instal visual studio dan centang yang desktop development with c++ saat instalasi
 
-3.  **Clone Repository:**
+2.  **Clone Repository:**
     ```bash
     git clone https://github.com/NAMA_ANDA/NAMA_REPO_ANDA.git
     cd NAMA_REPO_ANDA
     ```
 
-### 4. Penyiapan Backend (Firebase)
+3. **Penyiapan Backend (Firebase)**
 
 Aplikasi ini tidak bisa berjalan tanpa terhubung ke backend Firebase. Anda harus membuat dan mengonfigurasi proyek Firebase Anda sendiri. Proses ini gratis.
 
 ---
 
-#### **Langkah 4a: Buat Proyek Firebase**
+#### **Langkah 3a: Buat Proyek Firebase**
 
 1.  Buka [Firebase Console](https://console.firebase.google.com/) di browser Anda dan login dengan akun Google.
 2.  Klik **"Add project"** atau **"Buat project"**.
@@ -64,7 +64,7 @@ Aplikasi ini tidak bisa berjalan tanpa terhubung ke backend Firebase. Anda harus
 
 ---
 
-#### **Langkah 4b: Aktifkan Layanan yang Dibutuhkan**
+#### **Langkah 3b: Aktifkan Layanan yang Dibutuhkan**
 
 Di dalam dashboard proyek Firebase yang baru Anda buat, Anda perlu "menyalakan" tiga layanan utama.
 
@@ -114,7 +114,7 @@ Di dalam dashboard proyek Firebase yang baru Anda buat, Anda perlu "menyalakan" 
 
 ---
 
-#### **Langkah 4c: Hubungkan Proyek Flutter ke Firebase**
+#### **Langkah 3c: Hubungkan Proyek Flutter ke Firebase**
 
 Ini adalah langkah terakhir untuk membuat "jembatan" antara kode Anda dan backend Firebase.
 
@@ -147,7 +147,7 @@ Ini adalah langkah terakhir untuk membuat "jembatan" antara kode Anda dan backen
 
 Setelah `flutterfire configure` selesai, proyek Anda sudah **sepenuhnya terhubung** ke backend Firebase Anda. Sekarang Anda bisa melanjutkan ke langkah berikutnya.
 
-5.  **Jalankan Aplikasi:**
+4.  **Jalankan Aplikasi:**
     - Ambil semua dependensi di pubspec.yaml tinggal save atau:
       ```bash
       flutter pub get
