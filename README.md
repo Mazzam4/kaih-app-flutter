@@ -50,7 +50,7 @@ Untuk menjalankan proyek ini di komputer Anda, ikuti langkah-langkah berikut:
 
 3. **Penyiapan Backend (Firebase)**
 
-Aplikasi ini tidak bisa berjalan tanpa terhubung ke backend Firebase. Anda harus membuat dan mengonfigurasi proyek Firebase Anda sendiri. Proses ini gratis.
+Aplikasi ini tidak bisa berjalan tanpa terhubung ke backend Firebase. Anda harus membuat dan mengonfigurasi proyek Firebase Anda sendiri.
 
 ---
 
@@ -59,8 +59,7 @@ Aplikasi ini tidak bisa berjalan tanpa terhubung ke backend Firebase. Anda harus
 1.  Buka [Firebase Console](https://console.firebase.google.com/) di browser Anda dan login dengan akun Google.
 2.  Klik **"Add project"** atau **"Buat project"**.
 3.  Masukkan nama proyek (misalnya, `KAIH App Dev`) dan terima persyaratan.
-4.  Anda bisa **menonaktifkan** Google Analytics untuk proyek ini jika tidak diperlukan (ini akan membuat proses pembuatan lebih cepat).
-5.  Klik **"Create project"** dan tunggu hingga selesai.
+4.  Klik **"Create project"** dan tunggu hingga selesai.
 
 ---
 
@@ -93,7 +92,7 @@ Di dalam dashboard proyek Firebase yang baru Anda buat, Anda perlu "menyalakan" 
       ```
     - Klik **"Publish"**.
 
-3.  **Cloud Storage (Untuk Upload Gambar):**
+3.  **Cloud Storage (Untuk Upload Gambar) (jika firebase nya diupgrade ke spark jika tidak perlu bisa skip bagian ini):**
     - Di menu navigasi kiri, klik **Build > Storage**.
     - Klik tombol **"Get started"**.
     - Pilih untuk memulai dalam **"Production mode"**. Klik **Next**.
