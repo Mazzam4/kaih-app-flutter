@@ -1,4 +1,4 @@
-# 7 KAIH - Aplikasi Pelacak Kebiasaan Organisasi
+# 7 KAIH - Kebiasaan Anak Indonesia Hebat
 
 **7 KAIH** (7 Kebiasaan Anak Indonesia Hebat) adalah sebuah aplikasi mobile yang dibangun menggunakan Flutter dan Firebase. Aplikasi ini dirancang untuk membantu anggota dalam sebuah organisasi atau tim untuk mencatat, melacak, dan memvisualisasikan progres dari 7 kebiasaan positif setiap hari.
 
