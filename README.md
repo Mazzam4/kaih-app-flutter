@@ -163,6 +163,6 @@ Setelah `flutterfire configure` selesai, proyek Anda sudah **sepenuhnya terhubun
 
 | Halaman Dashboard | Halaman Anggota |
 | :---: | :---: |
-| ![Laptop-Dashboard](screenshots/screenshot-dashboardlaptop.png) | ![Mobile-Dashboard](screenshots/screenshot-dashboardhp.png) |
+| ![Laptop-Dashboard](screenshots/screenshot-dashboardlaptop.png.png) | ![Mobile-Dashboard](screenshots/screenshot-dashboardhp.png.png) |
 
 ---
