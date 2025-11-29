@@ -18,7 +18,6 @@ Aplikasi ini menerapkan model data *multi-tenant*, di mana setiap organisasi mem
     - Tampilan data lengkap performa **seluruh** anggota organisasi.
     - Informasi ringkas mengenai total anggota, *streak* pribadi, dan peringkat.
 - **⚙️ Halaman Pengaturan:**
-    - Kelola profil pengguna (nama dan foto).
     - Ganti antara mode Terang (Light) dan Gelap (Dark).
     - Ganti atau keluar dari organisasi.
     - Logout.
